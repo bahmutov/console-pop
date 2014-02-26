@@ -6,14 +6,22 @@
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha test/*.js -R spec"
   },
+  "bugs": {
+    "url": "https://github.com/bahmutov/console-pop/issues"
+  },
   "keywords": [
     "console",
     "log",
     "testing"
   ],
+  "homepage": "https://github.com/bahmutov/console-pop",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "~1.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bahmutov/console-pop.git"
   }
 }
