@@ -1,6 +1,6 @@
 {
   "name": "console-pop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Make stackable console object to grab anything written to console.log",
   "main": "index.js",
   "scripts": {
